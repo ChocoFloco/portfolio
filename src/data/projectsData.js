@@ -4,34 +4,35 @@ import six from '../assets/svg/projects/six.svg'
 
 
 export const projectsData = [
-    {
-        id: 1,
-        projectName: 'Ayla Networks',
-        projectDesc: 'This project about Simplifying the Development of Smart Home & IoT Solutions.',
-        tags: ['React', 'SAAS', 'React Bootstrap'],
-        code: '',
-        demo: 'https://www.aylanetworks.com/',
-        image: six
-    },
-    {
-        id: 2,
-        projectName: 'Jewelry Niche',
-        projectDesc: 'This project is a Jewelry shop, Customer can be buy product and manage them and make payment.',
-        tags: ['React', 'Express', 'Material Ui'],
-        code: 'https://github.com/said7388/jewelry-niche',
-        demo: 'https://pandora-web.netlify.app/',
-        image: seven
-    },
-    {
-        id: 3,
-        projectName: 'Travel Agency',
-        projectDesc: 'This project about travel agency management.',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/said7388/Travel-Agency-client',
-        demo: 'https://travel-agency-fc58b.web.app/',
-        image: eight
-    }
-]
+  {
+    id: 1,
+    projectName: "Sussy Baka",
+    projectDesc:
+      "Sussy Baka bot is a Discord bot with over 100 commands, Ranging from Moderation to Fun.",
+    tags: ["Discord.js", "Discord", "Node.js"],
+    code: "https://github.com/RedNotSus/SussyBaka-bot-v14",
+    demo: "",
+    image: six,
+  },
+  {
+    id: 2,
+    projectName: "Reds Exploit Corner",
+    projectDesc:
+      "A free to use unblocked hub for games, proxies and apps. 55gms is full with games and gets updates multiple times per week. Start playing today!",
+    tags: ["Html", "CSS", "Javascript"],
+    code: "https://github.com/RedNotSus/exploits",
+    demo: "https://55gms.me",
+    image: seven,
+  },
+  {
+    id: 3,
+    projectName: "Computers Info site",
+    projectDesc: "Class project about computers, Made with wix (cringe)",
+    tags: ["Cringe", "Wix"],
+    demo: "https://jiayangc1.wixsite.com/computers",
+    image: eight,
+  },
+];
 
 
 // Do not remove any fields.

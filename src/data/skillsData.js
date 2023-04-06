@@ -1,22 +1,17 @@
 export const skillsData = [
     'HTML',
-    'Figma',
     'Javascript',
     'CSS',
+    'AWS',
     'React',
     'Docker',
-    'Next JS',
     'Node JS',
-    'Bootstrap',
-    'Go',
-    'Typescript',
-    'Figma',
+    'Python',
     'Ubuntu',
     'MongoDB',
-    'Tailwind',
+    'Wordpress',
     'MySQL',
     'PostgreSQL',
-    'MaterialUI',
     'Firebase'
 ]
 
