@@ -6,22 +6,22 @@ import six from '../assets/svg/projects/six.svg'
 export const projectsData = [
   {
     id: 1,
-    projectName: "Sussy Baka",
+    projectName: "Inverse Helper",
     projectDesc:
-      "Sussy Baka bot is a Discord bot with over 100 commands, Ranging from Moderation to Fun.",
+      "Inverse Helper bot is a Discord bot with over 100 commands, Ranging from Moderation to Fun.",
     tags: ["Discord.js", "Discord", "Node.js"],
-    code: "https://github.com/RedNotSus/SussyBaka-bot-v14",
+    code: "https://github.com/ChocoFloco/InverseHelpee,
     demo: "",
     image: six,
   },
   {
     id: 2,
-    projectName: "Reds Exploit Corner",
+    projectName: "Inverse",
     projectDesc:
       "A free to use unblocked hub for games, proxies and apps. 55gms is full with games and gets updates multiple times per week. Start playing today!",
     tags: ["Html", "CSS", "Javascript"],
-    code: "https://github.com/RedNotSus/exploits",
-    demo: "https://55gms.me",
+    code: "https://github.com/ChocoFloco/InverseHome",
+    demo: "https://ads-inverse.vercel.app",
     image: seven,
   },
   {
@@ -29,7 +29,7 @@ export const projectsData = [
     projectName: "Computers Info site",
     projectDesc: "Class project about computers, Made with wix (cringe)",
     tags: ["Cringe", "Wix"],
-    demo: "https://jiayangc1.wixsite.com/computers",
+    demo: "https://rishirecon.wixsite.com/computers",
     image: eight,
   },
 ];
