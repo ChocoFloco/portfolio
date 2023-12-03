@@ -1,9 +1,9 @@
 export const experienceData = [
   {
     id: 1,
-    company: "Lanier SMP",
-    jobtitle: "Server Head developer",
-    startYear: "Jan 2022",
+    company: "FulFish SMP",
+    jobtitle: "Server Founder",
+    startYear: "December 2022",
     endYear: "Present",
   },
 ];
