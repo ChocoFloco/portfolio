@@ -8,7 +8,7 @@ export const educationData = [
   },
   {
     id: 2,
-    institution: "Lanier Middle Scool",
+    institution: "TH Rogers Middle Scool",
     course: "Secondary School",
     startYear: "2019",
     endYear: "2022",
